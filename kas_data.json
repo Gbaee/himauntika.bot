@@ -1,0 +1,25 @@
+{
+  "targetPerMinggu": 6000,
+  "anggota": {
+    "Gussbe": {
+      "totalBayar": 6000,
+      "status": "lunas"
+    }
+  },
+  "history": [
+    {
+      "nama": "Gussbe",
+      "jumlah": 6000,
+      "status": "pending",
+      "tanggal": "18/10/2025, 00.41.41",
+      "minggu": 42
+    }
+  ],
+  "settings": {
+    "rekening": "123-456-7890 (BRI) - AN. BENDHARA HIMAUNTIKA",
+    "batasWaktu": "Setiap Sabtu minggu ini",
+    "adminKas": [
+      "6285600829369"
+    ]
+  }
+}
