@@ -487,3 +487,173 @@
 2025-10-18T12:34:41: PM2 log: pid=4724 msg=process killed
 2025-10-18T12:34:41: PM2 log: App [himauntika-bot:0] starting in -fork mode-
 2025-10-18T12:34:41: PM2 log: App [himauntika-bot:0] online
+2025-10-18T21:09:42: PM2 log: ===============================================================================
+2025-10-18T21:09:42: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-18T21:09:42: PM2 log: Time                 : Sat Oct 18 2025 21:09:42 GMT+0700 (Western Indonesia Time)
+2025-10-18T21:09:42: PM2 log: PM2 version          : 6.0.13
+2025-10-18T21:09:42: PM2 log: Node.js version      : 20.19.5
+2025-10-18T21:09:42: PM2 log: Current arch         : x64
+2025-10-18T21:09:42: PM2 log: PM2 home             : y
+2025-10-18T21:09:42: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-10-18T21:09:42: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-10-18T21:09:42: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-10-18T21:09:42: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-10-18T21:09:42: PM2 log: Worker Interval      : 30000
+2025-10-18T21:09:42: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-10-18T21:09:42: PM2 log: Concurrent actions   : 2
+2025-10-18T21:09:42: PM2 log: SIGTERM timeout      : 1600
+2025-10-18T21:09:42: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-10-18T21:09:42: PM2 log: ===============================================================================
+2025-10-18T21:09:42: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-18T21:09:42: PM2 log: App [himauntika-bot:0] online
+2025-10-18T21:13:06: PM2 log: Stopping app:himauntika-bot id:0
+2025-10-18T21:13:06: PM2 log: App [himauntika-bot:0] exited with code [1] via signal [SIGINT]
+2025-10-18T21:13:07: PM2 log: pid=15748 msg=process killed
+2025-10-18T21:13:07: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-18T21:13:07: PM2 log: App [himauntika-bot:0] online
+2025-10-18T21:47:57: PM2 log: Stopping app:himauntika-bot id:0
+2025-10-18T21:47:57: PM2 log: App [himauntika-bot:0] exited with code [1] via signal [SIGINT]
+2025-10-18T21:47:58: PM2 log: pid=9964 msg=process killed
+2025-10-18T21:47:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-18T21:47:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] exited with code [1073807364] via signal [SIGINT]
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:56: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] online
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-19T00:20:59: PM2 log: App [himauntika-bot:0] online

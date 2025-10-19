@@ -1096,7 +1096,7 @@ async function startBot() {
       // !acara
       if (textLower === "!acara") {
         await sock.sendMessage(groupJid, {
-          text: `🎉 Info acara terbaru:\n- Surat Edaran Muslub (18 oktober)\n- LDKP jilid 2 (20 oktober)\n- Musyawarah luar biasa(dikampus) tanggal 21 selasa pagi\n- PDHM MINI (via google meet) — selasa, 20.00 WIB - Selesai\n- Rabu 22 Oktober Materi etika & budaya di sekretariat, panitia min 2 aja di sekretariat\n- Makrab tanggal 25 Oktober hari sabtu`,
+          text: `🎉 Info acara terbaru:\n- Surat Edaran Muslub (18 oktober)\n- LDKP jilid 2 (20 oktober)\n- Musyawarah luar biasa(dikampus) tanggal 21 selasa pagi\n- PDHM MINI (via google meet) — Minggu, 19.30 WIB - Selesai\n- Rabu 22 Oktober Materi etika & budaya di sekretariat, panitia min 2 aja di sekretariat\n- Makrab tanggal 25 Oktober hari sabtu`,
         });
         return;
       }
