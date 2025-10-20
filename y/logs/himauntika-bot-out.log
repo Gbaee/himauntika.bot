@@ -67129,3 +67129,803 @@ Closing session: SessionEntry {
     preKeyId: 2306
   }
 }
+🤖 Bot HIMAUNTIKA starting...
+📍 Server Time: Sun Oct 19 2025 17:37:46 GMT+0700 (Western Indonesia Time)
+📍 Jakarta Time: 19/10/2025, 17.37.46
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
+Closing session: SessionEntry {
+  _chains: {
+    BQOIj8gHUqKIf0uvGFWQRVMBsYpyEWRmYmQVfrod6Hx2: { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BQiNZBeayt48Anec+hI4HvT06YrplrTc1Lnr8JSrSpkR': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 2061781124,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 08 8d 64 17 9a ca de 3c 02 77 9c fa 12 38 1e f4 f4 e9 8a e9 96 b4 dc d4 b9 eb f0 94 ab 4a 99 11>,
+      privKey: <Buffer 58 fa 7c 1e 7e d9 f8 ad 7e 84 8f fb 22 31 0e 02 ad d2 5b 83 5f 65 26 0c 36 29 5e 9b dd 35 f9 43>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 03 88 8f c8 07 52 a2 88 7f 4b af 18 55 90 45 53 01 b1 8a 72 11 64 66 62 64 15 7e ba 1d e8 7c 76>,
+    previousCounter: 0,
+    rootKey: <Buffer 7e 17 b5 c9 6c 2b d8 7f 5d 80 2d 2d 65 08 9f 85 b0 9a 60 e3 29 f8 4e b4 88 e6 d5 51 56 a3 b6 bb>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 ae 2c 15 c2 7f fe a1 83 a8 ca c6 c5 bc 81 1f 40 40 6a 82 9b 77 ef 36 33 70 ff b0 d9 63 36 11 48>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760711147103,
+    created: 1760711147103,
+    remoteIdentityKey: <Buffer 05 70 dc 86 6e 1b 76 48 52 71 ac 9c a9 22 eb bd 88 9a f2 f0 f2 6e 63 e0 1a c1 28 46 32 84 59 7d 48>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BTSooVtmgZTtkK/1vZ6R4vZA/mThAIDQC7/5JUHJxCoD': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BWv1eQ4tcA7xm87S9+0f77MDzAytaVFJvmQszsJYolks': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 653710525,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 6b f5 79 0e 2d 70 0e f1 9b ce d2 f7 ed 1f ef b3 03 cc 0c ad 69 51 49 be 64 2c ce c2 58 a2 59 2c>,
+      privKey: <Buffer 88 0a c2 d4 bc dc f3 87 59 bb 29 50 da b4 a4 a0 db 71 94 38 f2 76 0a a6 f6 6b 9e 06 d1 bc ff 4e>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 34 a8 a1 5b 66 81 94 ed 90 af f5 bd 9e 91 e2 f6 40 fe 64 e1 00 80 d0 0b bf f9 25 41 c9 c4 2a 03>,
+    previousCounter: 0,
+    rootKey: <Buffer 46 ed 6a c3 34 87 88 84 65 ae 3a bc ae db a1 d1 a5 f4 4e 18 90 ea 6f cb a7 1d dc 9a 60 2f 7f d8>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 ec c2 75 9f 74 ce d1 71 2e b3 74 88 e7 8c 8f fa 01 86 6c 36 dd 8f 55 96 1c d0 5c 06 79 e8 2d 7a>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760677329844,
+    created: 1760677329844,
+    remoteIdentityKey: <Buffer 05 ff e1 e3 c1 db 28 e1 a4 7c c9 e4 6a 63 c9 40 a6 ab 0f 23 b5 ef 25 63 15 30 0c 9a a9 8c 78 14 03>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    BajLKG7rXasRM6CnPSiFXnxUJZOS4zaOtjQyWyo0hqc0: { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BfP+fU92+u+5dvOMunzXfa80k0bLZafbutxrWVdSLeJp': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 750579198,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 f3 fe 7d 4f 76 fa ef b9 76 f3 8c ba 7c d7 7d af 34 93 46 cb 65 a7 db ba dc 6b 59 57 52 2d e2 69>,
+      privKey: <Buffer c0 4a d6 0b 64 f1 00 8b 19 56 90 9c a8 27 1f c5 c1 0f bc 92 0e 08 e0 c7 37 23 e9 56 ca 8d 77 71>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 a8 cb 28 6e eb 5d ab 11 33 a0 a7 3d 28 85 5e 7c 54 25 93 92 e3 36 8e b6 34 32 5b 2a 34 86 a7 34>,
+    previousCounter: 0,
+    rootKey: <Buffer 99 ea d8 bc eb 9d 6a 05 ca 0f ec 27 8c 10 cf 65 ed 1e d0 83 f4 9f cd a4 12 87 d3 29 cc 95 02 bf>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 46 5d 9c de 1f e6 ae 39 89 63 9c df 1d ad a0 57 13 ec 08 67 31 f3 5a 76 48 0a f7 a4 9f a9 c4 5f>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760677684674,
+    created: 1760677684674,
+    remoteIdentityKey: <Buffer 05 a5 7e 6c ce 76 c0 a8 35 1b 14 e9 16 2f cf 78 0d af 38 06 7a fc 39 0a fa d4 35 ec d8 71 8c 40 1d>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BQ0QpfogLn1W85kjOi2QekDjLNO1IZOwHAPu/50haKBK': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BZwG+SXgAhWFJFOMBqWvEahE6AuEBQWYqQ6UKaQ1Ek5q': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 2061781124,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 9c 06 f9 25 e0 02 15 85 24 53 8c 06 a5 af 11 a8 44 e8 0b 84 05 05 98 a9 0e 94 29 a4 35 12 4e 6a>,
+      privKey: <Buffer 38 8e d3 94 0f c6 7f 54 80 b9 83 09 56 3e ce c5 c9 0e cb 1d 27 08 b1 c2 5d 82 f0 be 1a b0 95 7a>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 0d 10 a5 fa 20 2e 7d 56 f3 99 23 3a 2d 90 7a 40 e3 2c d3 b5 21 93 b0 1c 03 ee ff 9d 21 68 a0 4a>,
+    previousCounter: 0,
+    rootKey: <Buffer 43 aa 20 f7 a6 7a c9 59 99 31 c2 2d 0b 91 bd 91 33 7a 28 2b 8d d3 52 c5 ec a7 82 27 4b ef ec 42>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 ff 9c 45 12 65 9b a7 b3 89 dc e3 75 5f 27 c4 ed ea cd c5 ba 99 50 1e 50 f9 9f 32 e0 f7 3c 7c 6f>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760870355540,
+    created: 1760870355540,
+    remoteIdentityKey: <Buffer 05 70 dc 86 6e 1b 76 48 52 71 ac 9c a9 22 eb bd 88 9a f2 f0 f2 6e 63 e0 1a c1 28 46 32 84 59 7d 48>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BawxubCuVZaKzxqy+EcoWDcPnp31HvUY4zRgNh7unmZb': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    BYm9677cXRSoUsxEQNIwHMJKxeYvOFRJBTrN5ANtA4M8: { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 63819917,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 89 bd eb be dc 5d 14 a8 52 cc 44 40 d2 30 1c c2 4a c5 e6 2f 38 54 49 05 3a cd e4 03 6d 03 83 3c>,
+      privKey: <Buffer f0 a2 0b ec bb 2a 30 88 cd 8a 70 2b c4 67 38 81 06 02 ac c7 6b ef 2b 49 07 0b af 9b bb a5 5e 68>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 ac 31 b9 b0 ae 55 96 8a cf 1a b2 f8 47 28 58 37 0f 9e 9d f5 1e f5 18 e3 34 60 36 1e ee 9e 66 5b>,
+    previousCounter: 0,
+    rootKey: <Buffer d1 7d 85 09 ac ff 55 e6 18 20 9b d5 29 ee ff c5 28 d6 2a c0 09 72 c0 4c 81 a5 22 32 e5 3c fb 47>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 35 96 c1 0b f1 e6 a9 5c 95 b3 1b d9 fc 11 12 3c fb c2 f7 93 98 0e af a1 96 4e fe e0 f1 c5 c2 0c>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760798641143,
+    created: 1760798641143,
+    remoteIdentityKey: <Buffer 05 35 9b bd 7d 05 7d 81 7f 03 2e 60 74 aa a6 39 e5 a6 88 5e 23 cd c6 1d fa da 7c 09 53 92 d9 a3 4d>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BaiY00/czQOtUPkQ97Ws4mJEFtub/gOs6C0VPZ890/1y': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    BeW3CBI3cMbtyektpyJ9uTkKXrbzuddSCm5NggGgALxX: { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 2061781124,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 e5 b7 08 12 37 70 c6 ed c9 e9 2d a7 22 7d b9 39 0a 5e b6 f3 b9 d7 52 0a 6e 4d 82 01 a0 00 bc 57>,
+      privKey: <Buffer 98 c5 11 94 55 ad d5 47 f1 b9 5c 54 5d 77 06 89 98 fb 3f 9f e7 91 dc 52 f3 7a 91 9a 06 3f ae 5c>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 a8 98 d3 4f dc cd 03 ad 50 f9 10 f7 b5 ac e2 62 44 16 db 9b fe 03 ac e8 2d 15 3d 9f 3d d3 fd 72>,
+    previousCounter: 0,
+    rootKey: <Buffer 27 d3 47 3c 50 8b a4 7c d1 74 56 7f f5 a4 89 a8 96 0b 00 1e b4 06 ce 39 ad 72 4c 8c 84 c4 9d c9>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 9b a2 7a 62 14 b4 e2 7e 63 89 85 08 6b 33 4d 12 e9 81 d9 33 9c 62 f1 03 5f be 44 71 4d 09 11 07>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760870356551,
+    created: 1760870356551,
+    remoteIdentityKey: <Buffer 05 70 dc 86 6e 1b 76 48 52 71 ac 9c a9 22 eb bd 88 9a f2 f0 f2 6e 63 e0 1a c1 28 46 32 84 59 7d 48>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    BXrMX0owSYQMfnfAb5PIhcNAYTTvPRs8uroHlxTJuCsU: { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BeM/2/4toz1hZnxQ0qwoZAhEu+gONGyUPve2w0Y7fXp+': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 2061781124,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 e3 3f db fe 2d a3 3d 61 66 7c 50 d2 ac 28 64 08 44 bb e8 0e 34 6c 94 3e f7 b6 c3 46 3b 7d 7a 7e>,
+      privKey: <Buffer 38 9e 5f 62 ab dc 46 ca c8 cd a8 a1 d2 57 41 c2 66 2c 49 ec 78 12 f9 52 19 9b b1 06 96 df 86 47>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 7a cc 5f 4a 30 49 84 0c 7e 77 c0 6f 93 c8 85 c3 40 61 34 ef 3d 1b 3c ba ba 07 97 14 c9 b8 2b 14>,
+    previousCounter: 0,
+    rootKey: <Buffer 55 f7 4f 00 d1 bf 86 c9 38 cb a5 9a 7f 87 c7 45 54 68 cd 30 94 57 fc 26 b6 a7 66 01 94 cd 6c e9>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 05 40 34 59 6d a5 2e fb d3 36 2f dd 36 3e d5 52 38 30 b7 6a 50 fe bc 43 5d 3e ee c4 e1 be f9 16>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760870357250,
+    created: 1760870357250,
+    remoteIdentityKey: <Buffer 05 70 dc 86 6e 1b 76 48 52 71 ac 9c a9 22 eb bd 88 9a f2 f0 f2 6e 63 e0 1a c1 28 46 32 84 59 7d 48>
+  }
+}
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
+🤖 Bot HIMAUNTIKA starting...
+📍 Server Time: Sun Oct 19 2025 20:21:56 GMT+0700 (Western Indonesia Time)
+📍 Jakarta Time: 19/10/2025, 20.21.56
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
+Closing session: SessionEntry {
+  _chains: {
+    'BX+f5crB6QHtPFqWaOm3ev2cDcyo+aaSXxk0Iswb35ww': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BX1+dZKLx+wtmj5s4dUbK7JDMSAsdMRZE9RQzS1lJm0Q': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 63819917,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 7d 7e 75 92 8b c7 ec 2d 9a 3e 6c e1 d5 1b 2b b2 43 31 20 2c 74 c4 59 13 d4 50 cd 2d 65 26 6d 10>,
+      privKey: <Buffer 48 cf e8 fa 80 ea 2b 4a 4c eb 84 df ae 84 09 12 b4 f8 34 98 5e 0f f9 f5 8e 4e 63 52 d9 4b 70 50>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 7f 9f e5 ca c1 e9 01 ed 3c 5a 96 68 e9 b7 7a fd 9c 0d cc a8 f9 a6 92 5f 19 34 22 cc 1b df 9c 30>,
+    previousCounter: 0,
+    rootKey: <Buffer 2b cf 39 ae 54 60 e3 ca 9f 45 89 80 29 7a df fe ef 75 d6 e7 57 45 f1 37 4f 32 56 ad 95 f8 28 bb>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 5f bb 8b 53 74 e7 62 35 f0 7e c2 05 55 6e e2 74 97 d5 af 7b 52 c4 37 1a 9c 73 87 00 8f 50 bf 10>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760796773869,
+    created: 1760796773869,
+    remoteIdentityKey: <Buffer 05 35 9b bd 7d 05 7d 81 7f 03 2e 60 74 aa a6 39 e5 a6 88 5e 23 cd c6 1d fa da 7c 09 53 92 d9 a3 4d>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BXX3P2BMs47GyVa0ZNu/2J8vI0LZamwKJ3NcKhfRiKIy': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 1279881881,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 75 f7 3f 60 4c b3 8e c6 c9 56 b4 64 db bf d8 9f 2f 23 42 d9 6a 6c 0a 27 73 5c 2a 17 d1 88 a2 32>,
+      privKey: <Buffer 30 4d 8d 90 66 2f ab 37 c1 f9 d0 a0 78 6e 4e 6d f1 ba 5a 42 df a7 1d 60 23 ac f6 0d 1f 45 60 51>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 59 03 bf 10 88 8d 9a 64 9e 67 86 06 33 4d 88 d9 6f a0 05 3d 34 d9 b8 ae 32 38 27 70 d5 10 e6 12>,
+    previousCounter: 0,
+    rootKey: <Buffer 7d 87 9f c1 8e a6 c7 50 6f 46 ba 50 66 90 53 ed 5e 88 e8 14 cb 54 e0 27 c5 bf ea e5 51 5f ff 31>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 1e a7 6f 10 27 5e 86 21 11 7f ff 57 d3 cc d1 59 ea d0 f6 d0 fa 45 81 5e e3 54 80 53 fe e6 9a 17>,
+    baseKeyType: 1,
+    closed: -1,
+    used: 1760677257469,
+    created: 1760677257469,
+    remoteIdentityKey: <Buffer 05 6d 34 0b 2a 7f 94 1b 4f 37 4b 56 d4 5f 63 96 79 67 c7 a8 3f c5 0e 1e 54 07 88 e9 2d 2c f0 ed 10>
+  },
+  pendingPreKey: {
+    signedKeyId: 4,
+    baseKey: <Buffer 05 1e a7 6f 10 27 5e 86 21 11 7f ff 57 d3 cc d1 59 ea d0 f6 d0 fa 45 81 5e e3 54 80 53 fe e6 9a 17>,
+    preKeyId: 3187
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BWt2Zve+myN55SPjKaYvmLTnHB423WRxww19MUlOz2g3': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BQJa7sv1UuHGZyZQRhTKZE1yHXe3QI/G5wm85Y9PVq4q': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 383654748,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 02 5a ee cb f5 52 e1 c6 67 26 50 46 14 ca 64 4d 72 1d 77 b7 40 8f c6 e7 09 bc e5 8f 4f 56 ae 2a>,
+      privKey: <Buffer 98 ac b9 94 d1 5b 3f 05 72 18 76 ed b6 a9 e6 52 54 06 a7 7b 88 c3 12 da 94 94 81 35 b0 2b b0 56>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 6b 76 66 f7 be 9b 23 79 e5 23 e3 29 a6 2f 98 b4 e7 1c 1e 36 dd 64 71 c3 0d 7d 31 49 4e cf 68 37>,
+    previousCounter: 0,
+    rootKey: <Buffer ad 64 a3 bd 7c 40 f7 1f 87 70 3a 08 1e d7 b7 ea 5e 73 fe a3 43 31 35 bd 8e 12 4f b6 c3 d2 e1 e1>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 cd ca f3 d0 1e 37 04 19 93 5a a7 6b ac 10 1e a5 f7 4b 28 a6 29 d6 4b c4 e1 db 42 10 85 fc be 08>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760715653312,
+    created: 1760715653312,
+    remoteIdentityKey: <Buffer 05 60 bf 78 0e 49 a1 80 5d ae 56 4d 63 fb 9f 4e ef a6 66 40 13 92 0b 9b 62 ee 32 aa 33 63 76 c7 47>
+  }
+}
+🤖 Bot HIMAUNTIKA starting...
+📍 Server Time: Sun Oct 19 2025 22:41:49 GMT+0700 (Western Indonesia Time)
+📍 Jakarta Time: 19/10/2025, 22.41.49
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
+🤖 Bot HIMAUNTIKA starting...
+📍 Server Time: Mon Oct 20 2025 12:23:15 GMT+0700 (Western Indonesia Time)
+📍 Jakarta Time: 20/10/2025, 12.23.15
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
+Closing session: SessionEntry {
+  _chains: {
+    'Beb4PiIcvAgaIka00L+3CScTJsmyUDLOmTbwkPIqtjEo': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BeEcGwddT4F1/T6nCpnJvETchA6pGmsNKrQ6CNhD+44M': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 750579198,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 e1 1c 1b 07 5d 4f 81 75 fd 3e a7 0a 99 c9 bc 44 dc 84 0e a9 1a 6b 0d 2a b4 3a 08 d8 43 fb 8e 0c>,
+      privKey: <Buffer 50 7b 84 49 81 58 e6 31 81 4e 0e eb a8 b1 d4 ec b0 e0 87 e2 1e a6 ec 3c b4 3a fd 5c 1f b0 cc 5b>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 e6 f8 3e 22 1c bc 08 1a 22 46 b4 d0 bf b7 09 27 13 26 c9 b2 50 32 ce 99 36 f0 90 f2 2a b6 31 28>,
+    previousCounter: 0,
+    rootKey: <Buffer 2c c5 fe 1b 12 7b 1b e8 5c af 26 f1 99 f7 a3 31 b4 a0 88 d8 37 a3 9f d5 6d d3 d9 f0 d3 47 ad ba>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 21 b7 13 d7 45 a2 4d 7f a5 73 9f 74 b4 89 0f 8c ce 1d e0 7e 5b ab dc 61 0b 89 f5 11 b7 fd dd 14>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760796898149,
+    created: 1760796898149,
+    remoteIdentityKey: <Buffer 05 a5 7e 6c ce 76 c0 a8 35 1b 14 e9 16 2f cf 78 0d af 38 06 7a fc 39 0a fa d4 35 ec d8 71 8c 40 1d>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BUe4LAN79FqLg57hPpXvS62ZMt/9YeYdKhufuaBZN/AS': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    BVevpH3rLwmo2tsp6kTSoYq0Z5jumltBWyFmkh8XFZMz: { chainKey: [Object], chainType: 2, messageKeys: {} },
+    BbLrzN3iFImqnPWMdai5bqxRLZioRc2qpbO4pxpazhtn: { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 383654748,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 b2 eb cc dd e2 14 89 aa 9c f5 8c 75 a8 b9 6e ac 51 2d 98 a8 45 cd aa a5 b3 b8 a7 1a 5a ce 1b 67>,
+      privKey: <Buffer e8 34 77 5d 5f 45 2c a2 fe 67 18 0b b1 bd 08 64 d9 90 7c 4b 8e 32 7b 04 e6 39 e0 70 94 fc c5 65>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 57 af a4 7d eb 2f 09 a8 da db 29 ea 44 d2 a1 8a b4 67 98 ee 9a 5b 41 5b 21 66 92 1f 17 15 93 33>,
+    previousCounter: 1,
+    rootKey: <Buffer ad 87 21 d0 b1 07 29 6a d7 63 a1 0a a2 0f e8 70 44 06 0e 3a 3d 9b 32 fb 36 56 9e d5 40 98 ca 49>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 aa 44 4d c3 bf 8f 44 a9 62 77 41 cd 7a 09 9d 71 e3 ae 31 d5 c0 38 2a c5 9c dc 68 8b 31 c5 6d 5b>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760883149789,
+    created: 1760796773596,
+    remoteIdentityKey: <Buffer 05 60 bf 78 0e 49 a1 80 5d ae 56 4d 63 fb 9f 4e ef a6 66 40 13 92 0b 9b 62 ee 32 aa 33 63 76 c7 47>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BQGSiPfZbIm+WE4saEzxSt+P13DA/qXe/a7F1O/HoXw6': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    BbSuQdCb0iRlGkvaQ4zT79bcBZIzA07fvty6L6tt9y0A: { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 383654748,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 b4 ae 41 d0 9b d2 24 65 1a 4b da 43 8c d3 ef d6 dc 05 92 33 03 4e df be dc ba 2f ab 6d f7 2d 00>,
+      privKey: <Buffer 00 6f ea bb ff be a3 96 5e 93 8d 7b 10 44 8b 55 aa df e3 c3 74 11 90 5e c9 20 96 2c a8 81 a7 7c>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 01 92 88 f7 d9 6c 89 be 58 4e 2c 68 4c f1 4a df 8f d7 70 c0 fe a5 de fd ae c5 d4 ef c7 a1 7c 3a>,
+    previousCounter: 0,
+    rootKey: <Buffer 89 86 49 98 0e a3 fe 8a a8 5c 73 20 63 80 44 bc 40 6e a2 b2 53 a5 d0 43 24 84 87 f2 5d fc 50 13>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 e9 b2 5f ad 4e 7e c4 07 81 b1 fe 6b dc 81 e3 ce 38 18 b4 b4 53 c0 24 d1 31 de f1 ca 23 02 66 2c>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760937861188,
+    created: 1760937861188,
+    remoteIdentityKey: <Buffer 05 60 bf 78 0e 49 a1 80 5d ae 56 4d 63 fb 9f 4e ef a6 66 40 13 92 0b 9b 62 ee 32 aa 33 63 76 c7 47>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BX02zXCtU55bgPmxF1s2sNRBufEpps6I/+fKhLCLrhk+': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    BYGSBNhf6Y42HO63ip2iblmSmBt5wMGQBpkXDR4Nzhoc: { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 653710525,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 81 92 04 d8 5f e9 8e 36 1c ee b7 8a 9d a2 6e 59 92 98 1b 79 c0 c1 90 06 99 17 0d 1e 0d ce 1a 1c>,
+      privKey: <Buffer d8 db 18 90 6a 79 4e 42 60 72 c9 f2 39 b5 b9 8d 62 99 44 d7 f1 e2 2a 44 96 e7 22 05 fa df 08 4a>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 7d 36 cd 70 ad 53 9e 5b 80 f9 b1 17 5b 36 b0 d4 41 b9 f1 29 a6 ce 88 ff e7 ca 84 b0 8b ae 19 3e>,
+    previousCounter: 0,
+    rootKey: <Buffer 17 a9 43 4c b5 6f 40 5f 91 50 f8 7e 7b be 72 81 32 72 c6 f7 cf 1c 48 3e 9c 0b 8d 56 6d 63 7f 32>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 50 de 6b 21 da 8d ea 56 8a 4b 19 8b 69 d8 95 6d c7 3a 35 3e 28 9d b6 fa 88 69 81 93 96 68 ab 47>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760796773388,
+    created: 1760796773388,
+    remoteIdentityKey: <Buffer 05 ff e1 e3 c1 db 28 e1 a4 7c c9 e4 6a 63 c9 40 a6 ab 0f 23 b5 ef 25 63 15 30 0c 9a a9 8c 78 14 03>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BTk6+lzoRbxQH6qzGF8RSpU7IdiE1n90Z1Bkb7RHEkx+': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BdL9HPG6KQy2RxH7/QQZNt+ahyUQW7/e7IitwcSMyEgh': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 383654748,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 d2 fd 1c f1 ba 29 0c b6 47 11 fb fd 04 19 36 df 9a 87 25 10 5b bf de ec 88 ad c1 c4 8c c8 48 21>,
+      privKey: <Buffer 58 b7 d4 5d aa 0a 59 3b 8a 58 fd fc 91 1b bb 15 b4 a9 de 28 38 5a e4 37 e9 fb d5 3a a1 eb ab 7b>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 39 3a fa 5c e8 45 bc 50 1f aa b3 18 5f 11 4a 95 3b 21 d8 84 d6 7f 74 67 50 64 6f b4 47 12 4c 7e>,
+    previousCounter: 0,
+    rootKey: <Buffer d9 ab 5b 63 d9 6b 50 b8 38 cc 80 b1 4d 93 74 4c 4d bd 56 cf c3 f1 45 20 72 19 bf 2e 11 4d a9 e8>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 18 fd 37 b1 66 af 01 42 aa 0f b0 9a 98 9c 62 af 16 4b 52 15 06 af bc 47 54 db 02 50 af e3 bd 33>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760937861897,
+    created: 1760937861897,
+    remoteIdentityKey: <Buffer 05 60 bf 78 0e 49 a1 80 5d ae 56 4d 63 fb 9f 4e ef a6 66 40 13 92 0b 9b 62 ee 32 aa 33 63 76 c7 47>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BVAwUmzfFA4qVlrYVssrI2c+zFOS/26Dh9FSQkVbtOQ/': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    Bb2uxYFB9rAXam83QH0shWWwNB5XqVw3yZrj7AzSj81k: { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 383654748,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 bd ae c5 81 41 f6 b0 17 6a 6f 37 40 7d 2c 85 65 b0 34 1e 57 a9 5c 37 c9 9a e3 ec 0c d2 8f cd 64>,
+      privKey: <Buffer d0 2e b6 13 ec 0b 1c 9d 62 a4 08 54 41 f9 38 32 9f 64 f0 bf 24 5c 44 42 23 d8 5e a7 66 3c b4 52>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 50 30 52 6c df 14 0e 2a 56 5a d8 56 cb 2b 23 67 3e cc 53 92 ff 6e 83 87 d1 52 42 45 5b b4 e4 3f>,
+    previousCounter: 0,
+    rootKey: <Buffer eb b6 15 f3 66 d8 9e 43 e4 8f af 8b 12 95 e8 b5 a1 f1 42 b4 58 56 da 3e 5d 3f fa 58 4d b0 81 ad>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 46 2d 67 63 1d ba ba 1c 10 90 3b 7e 99 0e 35 5c e6 6c de cc ac 71 fd 97 59 a3 42 37 d4 d2 47 69>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760937862345,
+    created: 1760937862345,
+    remoteIdentityKey: <Buffer 05 60 bf 78 0e 49 a1 80 5d ae 56 4d 63 fb 9f 4e ef a6 66 40 13 92 0b 9b 62 ee 32 aa 33 63 76 c7 47>
+  }
+}
+Closing session: SessionEntry {
+  _chains: {
+    'BfrLkI9ZjciDDY7TDR7oV2wEy+0CMUfnlLw7kOa7mIsF': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    BUb5zM545tbIbh6NFgCUDR3EC5x0mvfuuuBXwVOYjs1b: { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 383654748,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 46 f9 cc ce 78 e6 d6 c8 6e 1e 8d 16 00 94 0d 1d c4 0b 9c 74 9a f7 ee ba e0 57 c1 53 98 8e cd 5b>,
+      privKey: <Buffer 78 4c 49 1c ce e9 fd 29 cc 58 5c 3b e4 c6 3b 0a 62 ce d6 8e aa d6 aa e6 16 11 b6 59 3d ff 6e 70>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 fa cb 90 8f 59 8d c8 83 0d 8e d3 0d 1e e8 57 6c 04 cb ed 02 31 47 e7 94 bc 3b 90 e6 bb 98 8b 05>,
+    previousCounter: 0,
+    rootKey: <Buffer f9 be 44 d8 2b cc 05 b3 59 97 18 b4 97 c6 3f 21 9b 08 d5 7a 17 ae a3 36 71 a5 79 f8 34 35 3b 6e>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 98 41 d2 e2 8c cf b0 d6 9b a5 0e 4e d0 0e 9a 23 40 94 67 36 66 4c 12 24 90 bc 5d a7 77 70 ac 29>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760937862935,
+    created: 1760937862935,
+    remoteIdentityKey: <Buffer 05 60 bf 78 0e 49 a1 80 5d ae 56 4d 63 fb 9f 4e ef a6 66 40 13 92 0b 9b 62 ee 32 aa 33 63 76 c7 47>
+  }
+}

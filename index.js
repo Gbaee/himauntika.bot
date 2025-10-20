@@ -1,4 +1,4 @@
-// index.js (FINAL) - Bot HIMAUNTIKA dengan Data Kas Lengkap
+// index.js (FINAL) - Bot HIMAUNTIKA dengan Data Kas Lengkap + Fitur Tag All
 // Dependencies: @whiskeysockets/baileys, qrcode-terminal, node-cron, pino
 // Install: npm i @whiskeysockets/baileys qrcode-terminal node-cron pino
 
@@ -764,7 +764,7 @@ async function startBot() {
   }, { timezone: "Asia/Jakarta" });
 
   // --------------------
-  // MESSAGE HANDLER - DENGAN FITUR KAS BARU
+  // MESSAGE HANDLER - DENGAN FITUR KAS BARU & TAG ALL
   // --------------------
   sock.ev.on("messages.upsert", async (m) => {
     try {
@@ -868,6 +868,9 @@ async function startBot() {
 🔹 !piket — Lihat jadwal piket hari ini
 🔹 !agendalink — Lihat link agenda
 
+👥 *Fitur Grup:*
+🔹 !tagall <pesan> — Tag semua anggota grup (hanya admin)
+
 💡 *Pengingat otomatis (hanya di grup HIMAUNTIKA):*
 💰 Kas: Senin, Rabu, Jumat (12:00 & 20:00 WIB)
 📅 Agenda: Senin (10:00 WIB)
@@ -878,6 +881,71 @@ async function startBot() {
 
 💡 Hanya pesan diawali "!" yang akan diproses.`;
         await sock.sendMessage(groupJid, { text: menuText });
+        return;
+      }
+
+      // ---------- FITUR TAG ALL BARU ----------
+      // !tagall <pesan> - Tag semua anggota grup
+      if (textLower.startsWith("!tagall")) {
+        if (!isAdmin) {
+          await sock.sendMessage(groupJid, { 
+            text: "🚫 Hanya admin yang bisa menggunakan perintah !tagall." 
+          });
+          return;
+        }
+
+        if (!groupJid.endsWith("@g.us")) {
+          await sock.sendMessage(groupJid, { 
+            text: "❌ Perintah !tagall hanya bisa digunakan di grup." 
+          });
+          return;
+        }
+
+        try {
+          const pesanTag = text.slice("!tagall".length).trim();
+          const groupMetadata = await sock.groupMetadata(groupJid);
+          const participants = groupMetadata.participants;
+          
+          // Filter untuk menghilangkan bot dari daftar tag
+          const filteredParticipants = participants.filter(p => !p.id.includes('status') && !p.id.includes('broadcast'));
+          
+          if (filteredParticipants.length === 0) {
+            await sock.sendMessage(groupJid, { 
+              text: "❌ Tidak ada anggota yang bisa di-tag." 
+            });
+            return;
+          }
+
+          // Buat daftar mention
+          const mentions = filteredParticipants.map(p => p.id);
+          const mentionTexts = filteredParticipants.map(p => `@${p.id.split('@')[0]}`);
+          
+          let message = `🔔 *PEMBERITAHUAN UNTUK SEMUA ANGGOTA* 🔔\n\n`;
+          
+          if (pesanTag) {
+            message += `${pesanTag}\n\n`;
+          } else {
+            message += `*Ada pengumuman penting untuk semua anggota HIMAUNTIKA!* 📢\n\n`;
+          }
+          
+          message += `📋 *Daftar Anggota:*\n`;
+          message += mentionTexts.join('\n');
+          
+          message += `\n\n💡 *Total: ${filteredParticipants.length} anggota*`;
+          
+          await sock.sendMessage(groupJid, { 
+            text: message,
+            mentions: mentions
+          });
+          
+          console.log(`✅ Tag all berhasil untuk ${filteredParticipants.length} anggota`);
+          
+        } catch (error) {
+          console.error("❌ Error tag all:", error);
+          await sock.sendMessage(groupJid, { 
+            text: "❌ Gagal melakukan tag all. Pastikan bot adalah admin grup." 
+          });
+        }
         return;
       }
 
