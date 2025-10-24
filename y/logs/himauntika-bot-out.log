@@ -67929,3 +67929,222 @@ Closing session: SessionEntry {
     remoteIdentityKey: <Buffer 05 60 bf 78 0e 49 a1 80 5d ae 56 4d 63 fb 9f 4e ef a6 66 40 13 92 0b 9b 62 ee 32 aa 33 63 76 c7 47>
   }
 }
+🤖 Bot HIMAUNTIKA starting...
+📍 Server Time: Mon Oct 20 2025 18:32:58 GMT+0700 (Western Indonesia Time)
+📍 Jakarta Time: 20/10/2025, 18.32.58
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
+Closing session: SessionEntry {
+  _chains: {
+    BReriWRFmpqXik6TkpPxdH5SPe4EZRBUWP8RLJG1QXF7: { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BQNmV9UYjB5vqZULx7VvRyBLaR3HZfZ8PsdUe/uBhutV': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 383654748,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 03 66 57 d5 18 8c 1e 6f a9 95 0b c7 b5 6f 47 20 4b 69 1d c7 65 f6 7c 3e c7 54 7b fb 81 86 eb 55>,
+      privKey: <Buffer 08 48 83 69 41 bb 9b fa 4a fe 38 8d 08 eb a2 1d c0 96 84 21 c1 15 38 74 f1 c6 2a 84 30 f1 bf 50>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 17 ab 89 64 45 9a 9a 97 8a 4e 93 92 93 f1 74 7e 52 3d ee 04 65 10 54 58 ff 11 2c 91 b5 41 71 7b>,
+    previousCounter: 0,
+    rootKey: <Buffer 04 37 9d 46 65 6a 54 a3 ae 4c d9 e3 c8 5f 1d 7b 1a dd 93 12 5d 2e 47 db f5 7c 5f d0 e3 2e e3 2f>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 be 2c ae 05 8c dc 89 9e 63 e8 69 dc 54 76 05 34 9d bb 55 f2 a0 c3 37 d3 78 aa 34 dc 35 af 5b 5e>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760887994331,
+    created: 1760887994331,
+    remoteIdentityKey: <Buffer 05 60 bf 78 0e 49 a1 80 5d ae 56 4d 63 fb 9f 4e ef a6 66 40 13 92 0b 9b 62 ee 32 aa 33 63 76 c7 47>
+  }
+}
+🤖 Bot HIMAUNTIKA starting...
+📍 Server Time: Mon Oct 20 2025 19:05:00 GMT+0700 (Western Indonesia Time)
+📍 Jakarta Time: 20/10/2025, 19.05.00
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
+✅ Tag all berhasil untuk 2 anggota
+✅ Tag all berhasil untuk 21 anggota
+✅ Tag all berhasil untuk 2 anggota
+🌙 Piket malam reminder triggered at 20/10/2025, 19.30.00
+✅ Pesan piket terkirim ke grup HIMAUNTIKA: 120363372013463995@g.us
+✅ Pengingat piket malam terkirim ke grup HIMAUNTIKA.
+💰 Kas reminder triggered at 20/10/2025, 20.00.00
+✅ Kas reminder sent to 120363372013463995@g.us
+Closing session: SessionEntry {
+  _chains: {
+    'BVsUqH/7Yx9kf1y65sJe2cAA8/+IS9utAjA3SaTNpV9c': { chainKey: [Object], chainType: 2, messageKeys: [Object] },
+    'BUvtsbRdsRGWlvDNRv/yQBboJ8lX+tiGoDVwPAGXI4Mm': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 653710525,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 4b ed b1 b4 5d b1 11 96 96 f0 cd 46 ff f2 40 16 e8 27 c9 57 fa d8 86 a0 35 70 3c 01 97 23 83 26>,
+      privKey: <Buffer 28 94 75 f0 f9 d2 53 4f b1 b8 ed c3 c7 ce fc 97 0a fa 50 67 ea 66 25 65 1d 68 56 80 3e d4 6b 5d>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 5b 14 a8 7f fb 63 1f 64 7f 5c ba e6 c2 5e d9 c0 00 f3 ff 88 4b db ad 02 30 37 49 a4 cd a5 5f 5c>,
+    previousCounter: 0,
+    rootKey: <Buffer 57 63 59 a6 b3 9e c6 66 36 45 30 bc a9 42 ef af 44 27 b4 d3 4b 4d 5b c9 39 8b 3c 47 b2 bd 08 79>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 f4 5a c9 43 1a 83 df 1c 2b b7 22 40 a3 32 47 6f 63 0d a3 9d 76 66 87 40 d2 2b 84 ff 8d 57 e4 58>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760870355678,
+    created: 1760870355678,
+    remoteIdentityKey: <Buffer 05 ff e1 e3 c1 db 28 e1 a4 7c c9 e4 6a 63 c9 40 a6 ab 0f 23 b5 ef 25 63 15 30 0c 9a a9 8c 78 14 03>
+  }
+}
+📸 Piket night check triggered at 20/10/2025, 22.00.00
+✅ Pesan piket terkirim ke grup HIMAUNTIKA: 120363372013463995@g.us
+⚠️ Pesan otomatis 'tidak piket' terkirim ke grup HIMAUNTIKA.
+🤖 Bot HIMAUNTIKA starting...
+📍 Server Time: Tue Oct 21 2025 09:04:45 GMT+0700 (Western Indonesia Time)
+📍 Jakarta Time: 21/10/2025, 09.04.45
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
+Closing session: SessionEntry {
+  _chains: {
+    BT8h8op7cyIHAIyQX0WP3U3LvYPLTLSs5H7b9Ov8ALw1: { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BX/zOwYQI/VOdnPdB9uxyK0Dfsy5i1R4Fp2QtSXbx8xc': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 750579198,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 7f f3 3b 06 10 23 f5 4e 76 73 dd 07 db b1 c8 ad 03 7e cc b9 8b 54 78 16 9d 90 b5 25 db c7 cc 5c>,
+      privKey: <Buffer 50 61 5e 2e f8 1d dd 95 9d 64 50 b8 5e 0f 80 ab 9e d4 b2 cc 0f 16 cb 36 59 5a 09 6c 05 a3 cb 7c>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 3f 21 f2 8a 7b 73 22 07 00 8c 90 5f 45 8f dd 4d cb bd 83 cb 4c b4 ac e4 7e db f4 eb fc 00 bc 35>,
+    previousCounter: 0,
+    rootKey: <Buffer 1b 6b ba 04 b8 8d 62 78 94 e5 75 61 ad 26 f4 1a 9b 06 78 80 3c 6e a3 f5 a6 6b 73 c7 40 5c fb 13>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 38 cd 9d ad 5a 9f b7 40 32 1c 80 ef 5d 18 ae 17 1b d1 eb 6b 8e 64 6f 78 b3 25 2b a1 73 0b 57 66>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760870355930,
+    created: 1760870355930,
+    remoteIdentityKey: <Buffer 05 a5 7e 6c ce 76 c0 a8 35 1b 14 e9 16 2f cf 78 0d af 38 06 7a fc 39 0a fa d4 35 ec d8 71 8c 40 1d>
+  }
+}
+✅ Tag all berhasil untuk 21 anggota
+🤖 Bot HIMAUNTIKA starting...
+📍 Server Time: Tue Oct 21 2025 12:10:40 GMT+0700 (Western Indonesia Time)
+📍 Jakarta Time: 21/10/2025, 12.10.40
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
+Closing session: SessionEntry {
+  _chains: {
+    BaTh3t9zQ54k3L3JHOJB7qcxlebUT2Yfn02B3D6Z2Uhg: { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'BT3aIgamgGTDvyiaUR8+lnke/GEF4hd+/G8x4OhUBBIK': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 383654748,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 3d da 22 06 a6 80 64 c3 bf 28 9a 51 1f 3e 96 79 1e fc 61 05 e2 17 7e fc 6f 31 e0 e8 54 04 12 0a>,
+      privKey: <Buffer 40 7c 57 f2 2f 46 5b 12 76 19 c8 98 75 98 37 e3 77 8d 29 2f e5 84 e0 bf 90 b9 9d d5 26 62 33 74>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 a4 e1 de df 73 43 9e 24 dc bd c9 1c e2 41 ee a7 31 95 e6 d4 4f 66 1f 9f 4d 81 dc 3e 99 d9 48 60>,
+    previousCounter: 0,
+    rootKey: <Buffer 49 ef 54 0c 0c b6 95 2e 0a 94 10 ca 7e f2 6f 41 79 9a b4 f3 6a 0b 1d 46 62 69 99 fc 05 96 bb 3c>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 90 1c 40 16 27 d0 15 10 4c 7b 49 4b 6f 0a 38 3e 3e 32 3b 23 cd e2 ed c9 ae e0 b3 12 06 f0 e6 17>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1760937863398,
+    created: 1760937863398,
+    remoteIdentityKey: <Buffer 05 60 bf 78 0e 49 a1 80 5d ae 56 4d 63 fb 9f 4e ef a6 66 40 13 92 0b 9b 62 ee 32 aa 33 63 76 c7 47>
+  }
+}
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+❌ Koneksi terputus. reconnect: true
+✅ Bot WhatsApp berhasil terhubung!
+⏰ Cron jobs scheduled for WIB timezone:
+   - Kas: Senin, Rabu, Jumat 12:00 & 20:00 WIB
+   - Agenda: Senin 10:00 WIB
+   - Piket: Setiap hari kerja 08:00 & 18:00 WIB
+   - Piket Pagi: 12:00 WIB
+   - Piket Malam: 19:30 WIB
+   - Piket Check: 22:00 WIB
