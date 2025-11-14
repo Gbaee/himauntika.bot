@@ -770,3 +770,392 @@
 2025-10-21T12:10:38: PM2 log: ===============================================================================
 2025-10-21T12:10:38: PM2 log: App [himauntika-bot:0] starting in -fork mode-
 2025-10-21T12:10:39: PM2 log: App [himauntika-bot:0] online
+2025-10-24T13:15:11: PM2 log: ===============================================================================
+2025-10-24T13:15:11: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-24T13:15:11: PM2 log: Time                 : Fri Oct 24 2025 13:15:11 GMT+0700 (Western Indonesia Time)
+2025-10-24T13:15:11: PM2 log: PM2 version          : 6.0.13
+2025-10-24T13:15:11: PM2 log: Node.js version      : 20.19.5
+2025-10-24T13:15:11: PM2 log: Current arch         : x64
+2025-10-24T13:15:11: PM2 log: PM2 home             : y
+2025-10-24T13:15:11: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-10-24T13:15:11: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-10-24T13:15:11: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-10-24T13:15:11: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-10-24T13:15:11: PM2 log: Worker Interval      : 30000
+2025-10-24T13:15:11: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-10-24T13:15:11: PM2 log: Concurrent actions   : 2
+2025-10-24T13:15:11: PM2 log: SIGTERM timeout      : 1600
+2025-10-24T13:15:11: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-10-24T13:15:11: PM2 log: ===============================================================================
+2025-10-24T13:24:49: PM2 log: App [whatsapp_bot_himauntika:0] starting in -fork mode-
+2025-10-24T13:24:50: PM2 log: App [whatsapp_bot_himauntika:0] online
+2025-10-24T14:22:51: PM2 log: ===============================================================================
+2025-10-24T14:22:51: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-24T14:22:51: PM2 log: Time                 : Fri Oct 24 2025 14:22:51 GMT+0700 (Western Indonesia Time)
+2025-10-24T14:22:51: PM2 log: PM2 version          : 6.0.13
+2025-10-24T14:22:51: PM2 log: Node.js version      : 20.19.5
+2025-10-24T14:22:51: PM2 log: Current arch         : x64
+2025-10-24T14:22:51: PM2 log: PM2 home             : y
+2025-10-24T14:22:51: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-10-24T14:22:51: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-10-24T14:22:51: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-10-24T14:22:51: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-10-24T14:22:51: PM2 log: Worker Interval      : 30000
+2025-10-24T14:22:51: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-10-24T14:22:51: PM2 log: Concurrent actions   : 2
+2025-10-24T14:22:51: PM2 log: SIGTERM timeout      : 1600
+2025-10-24T14:22:51: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-10-24T14:22:51: PM2 log: ===============================================================================
+2025-10-24T14:22:51: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-24T14:22:51: PM2 log: App [himauntika-bot:0] online
+2025-10-28T10:59:48: PM2 log: ===============================================================================
+2025-10-28T10:59:48: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-28T10:59:48: PM2 log: Time                 : Tue Oct 28 2025 10:59:48 GMT+0700 (Western Indonesia Time)
+2025-10-28T10:59:48: PM2 log: PM2 version          : 6.0.13
+2025-10-28T10:59:48: PM2 log: Node.js version      : 20.19.5
+2025-10-28T10:59:48: PM2 log: Current arch         : x64
+2025-10-28T10:59:48: PM2 log: PM2 home             : y
+2025-10-28T10:59:48: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-10-28T10:59:48: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-10-28T10:59:48: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-10-28T10:59:48: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-10-28T10:59:48: PM2 log: Worker Interval      : 30000
+2025-10-28T10:59:48: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-10-28T10:59:48: PM2 log: Concurrent actions   : 2
+2025-10-28T10:59:48: PM2 log: SIGTERM timeout      : 1600
+2025-10-28T10:59:48: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-10-28T10:59:48: PM2 log: ===============================================================================
+2025-10-28T10:59:48: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-28T10:59:48: PM2 log: App [himauntika-bot:0] online
+2025-10-28T14:02:17: PM2 log: App [himauntika-bot:0] exited with code [1073807364] via signal [SIGINT]
+2025-10-28T14:02:18: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-28T14:02:18: PM2 log: App [himauntika-bot:0] online
+2025-10-28T14:02:18: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-28T14:02:18: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-28T14:02:18: PM2 log: App [himauntika-bot:0] online
+2025-10-28T14:02:19: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-28T14:02:19: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-28T14:02:19: PM2 log: App [himauntika-bot:0] online
+2025-10-28T14:02:19: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-28T14:02:19: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-28T14:02:19: PM2 log: App [himauntika-bot:0] online
+2025-10-28T14:02:19: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] online
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] online
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] online
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-28T14:02:20: PM2 log: App [himauntika-bot:0] online
+2025-10-28T14:02:21: PM2 log: App [himauntika-bot:0] exited with code [3221226091] via signal [SIGINT]
+2025-10-28T14:02:21: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-29T11:20:07: PM2 log: ===============================================================================
+2025-10-29T11:20:07: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-29T11:20:07: PM2 log: Time                 : Wed Oct 29 2025 11:20:07 GMT+0700 (Western Indonesia Time)
+2025-10-29T11:20:07: PM2 log: PM2 version          : 6.0.13
+2025-10-29T11:20:07: PM2 log: Node.js version      : 20.19.5
+2025-10-29T11:20:07: PM2 log: Current arch         : x64
+2025-10-29T11:20:07: PM2 log: PM2 home             : y
+2025-10-29T11:20:07: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-10-29T11:20:07: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-10-29T11:20:07: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-10-29T11:20:07: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-10-29T11:20:07: PM2 log: Worker Interval      : 30000
+2025-10-29T11:20:07: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-10-29T11:20:07: PM2 log: Concurrent actions   : 2
+2025-10-29T11:20:07: PM2 log: SIGTERM timeout      : 1600
+2025-10-29T11:20:07: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-10-29T11:20:07: PM2 log: ===============================================================================
+2025-10-29T11:20:07: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-29T11:20:07: PM2 log: App [himauntika-bot:0] online
+2025-10-29T13:19:18: PM2 log: ===============================================================================
+2025-10-29T13:19:18: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-29T13:19:18: PM2 log: Time                 : Wed Oct 29 2025 13:19:18 GMT+0700 (Western Indonesia Time)
+2025-10-29T13:19:18: PM2 log: PM2 version          : 6.0.13
+2025-10-29T13:19:18: PM2 log: Node.js version      : 20.19.5
+2025-10-29T13:19:18: PM2 log: Current arch         : x64
+2025-10-29T13:19:18: PM2 log: PM2 home             : y
+2025-10-29T13:19:18: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-10-29T13:19:18: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-10-29T13:19:18: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-10-29T13:19:18: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-10-29T13:19:18: PM2 log: Worker Interval      : 30000
+2025-10-29T13:19:18: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-10-29T13:19:18: PM2 log: Concurrent actions   : 2
+2025-10-29T13:19:18: PM2 log: SIGTERM timeout      : 1600
+2025-10-29T13:19:18: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-10-29T13:19:18: PM2 log: ===============================================================================
+2025-10-29T13:19:18: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-29T13:19:18: PM2 log: App [himauntika-bot:0] online
+2025-10-30T10:27:45: PM2 log: ===============================================================================
+2025-10-30T10:27:45: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-30T10:27:45: PM2 log: Time                 : Thu Oct 30 2025 10:27:45 GMT+0700 (Western Indonesia Time)
+2025-10-30T10:27:45: PM2 log: PM2 version          : 6.0.13
+2025-10-30T10:27:45: PM2 log: Node.js version      : 20.19.5
+2025-10-30T10:27:45: PM2 log: Current arch         : x64
+2025-10-30T10:27:45: PM2 log: PM2 home             : y
+2025-10-30T10:27:45: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-10-30T10:27:45: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-10-30T10:27:45: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-10-30T10:27:45: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-10-30T10:27:45: PM2 log: Worker Interval      : 30000
+2025-10-30T10:27:45: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-10-30T10:27:45: PM2 log: Concurrent actions   : 2
+2025-10-30T10:27:45: PM2 log: SIGTERM timeout      : 1600
+2025-10-30T10:27:45: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-10-30T10:27:45: PM2 log: ===============================================================================
+2025-10-30T10:27:45: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-30T10:27:45: PM2 log: App [himauntika-bot:0] online
+2025-10-30T17:51:41: PM2 log: ===============================================================================
+2025-10-30T17:51:41: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-30T17:51:41: PM2 log: Time                 : Thu Oct 30 2025 17:51:41 GMT+0700 (Western Indonesia Time)
+2025-10-30T17:51:41: PM2 log: PM2 version          : 6.0.13
+2025-10-30T17:51:41: PM2 log: Node.js version      : 20.19.5
+2025-10-30T17:51:41: PM2 log: Current arch         : x64
+2025-10-30T17:51:41: PM2 log: PM2 home             : y
+2025-10-30T17:51:41: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-10-30T17:51:41: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-10-30T17:51:41: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-10-30T17:51:41: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-10-30T17:51:41: PM2 log: Worker Interval      : 30000
+2025-10-30T17:51:41: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-10-30T17:51:41: PM2 log: Concurrent actions   : 2
+2025-10-30T17:51:41: PM2 log: SIGTERM timeout      : 1600
+2025-10-30T17:51:41: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-10-30T17:51:41: PM2 log: ===============================================================================
+2025-10-30T17:51:41: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-30T17:51:41: PM2 log: App [himauntika-bot:0] online
+2025-10-31T10:11:41: PM2 log: ===============================================================================
+2025-10-31T10:11:41: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-10-31T10:11:41: PM2 log: Time                 : Fri Oct 31 2025 10:11:41 GMT+0700 (Western Indonesia Time)
+2025-10-31T10:11:41: PM2 log: PM2 version          : 6.0.13
+2025-10-31T10:11:41: PM2 log: Node.js version      : 20.19.5
+2025-10-31T10:11:41: PM2 log: Current arch         : x64
+2025-10-31T10:11:41: PM2 log: PM2 home             : y
+2025-10-31T10:11:41: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-10-31T10:11:41: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-10-31T10:11:41: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-10-31T10:11:41: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-10-31T10:11:41: PM2 log: Worker Interval      : 30000
+2025-10-31T10:11:41: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-10-31T10:11:41: PM2 log: Concurrent actions   : 2
+2025-10-31T10:11:41: PM2 log: SIGTERM timeout      : 1600
+2025-10-31T10:11:41: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-10-31T10:11:41: PM2 log: ===============================================================================
+2025-10-31T10:11:41: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-10-31T10:11:41: PM2 log: App [himauntika-bot:0] online
+2025-11-03T12:14:26: PM2 log: ===============================================================================
+2025-11-03T12:14:26: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-03T12:14:26: PM2 log: Time                 : Mon Nov 03 2025 12:14:26 GMT+0700 (Western Indonesia Time)
+2025-11-03T12:14:26: PM2 log: PM2 version          : 6.0.13
+2025-11-03T12:14:26: PM2 log: Node.js version      : 20.19.5
+2025-11-03T12:14:26: PM2 log: Current arch         : x64
+2025-11-03T12:14:26: PM2 log: PM2 home             : y
+2025-11-03T12:14:26: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-03T12:14:26: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-03T12:14:26: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-03T12:14:26: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-03T12:14:26: PM2 log: Worker Interval      : 30000
+2025-11-03T12:14:26: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-03T12:14:26: PM2 log: Concurrent actions   : 2
+2025-11-03T12:14:26: PM2 log: SIGTERM timeout      : 1600
+2025-11-03T12:14:26: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-03T12:14:26: PM2 log: ===============================================================================
+2025-11-03T12:14:27: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-03T12:14:27: PM2 log: App [himauntika-bot:0] online
+2025-11-06T21:10:45: PM2 log: ===============================================================================
+2025-11-06T21:10:46: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-06T21:10:46: PM2 log: Time                 : Thu Nov 06 2025 21:10:46 GMT+0700 (Western Indonesia Time)
+2025-11-06T21:10:46: PM2 log: PM2 version          : 6.0.13
+2025-11-06T21:10:46: PM2 log: Node.js version      : 20.19.5
+2025-11-06T21:10:46: PM2 log: Current arch         : x64
+2025-11-06T21:10:46: PM2 log: PM2 home             : y
+2025-11-06T21:10:46: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-06T21:10:46: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-06T21:10:46: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-06T21:10:46: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-06T21:10:46: PM2 log: Worker Interval      : 30000
+2025-11-06T21:10:46: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-06T21:10:46: PM2 log: Concurrent actions   : 2
+2025-11-06T21:10:46: PM2 log: SIGTERM timeout      : 1600
+2025-11-06T21:10:46: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-06T21:10:46: PM2 log: ===============================================================================
+2025-11-06T21:10:46: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-06T21:10:46: PM2 log: App [himauntika-bot:0] online
+2025-11-07T18:54:56: PM2 log: ===============================================================================
+2025-11-07T18:54:56: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-07T18:54:56: PM2 log: Time                 : Fri Nov 07 2025 18:54:56 GMT+0700 (Western Indonesia Time)
+2025-11-07T18:54:56: PM2 log: PM2 version          : 6.0.13
+2025-11-07T18:54:56: PM2 log: Node.js version      : 20.19.5
+2025-11-07T18:54:56: PM2 log: Current arch         : x64
+2025-11-07T18:54:56: PM2 log: PM2 home             : y
+2025-11-07T18:54:56: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-07T18:54:56: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-07T18:54:56: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-07T18:54:56: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-07T18:54:56: PM2 log: Worker Interval      : 30000
+2025-11-07T18:54:56: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-07T18:54:56: PM2 log: Concurrent actions   : 2
+2025-11-07T18:54:56: PM2 log: SIGTERM timeout      : 1600
+2025-11-07T18:54:56: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-07T18:54:56: PM2 log: ===============================================================================
+2025-11-07T18:54:57: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-07T18:54:57: PM2 log: App [himauntika-bot:0] online
+2025-11-08T11:25:43: PM2 log: ===============================================================================
+2025-11-08T11:25:43: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-08T11:25:43: PM2 log: Time                 : Sat Nov 08 2025 11:25:43 GMT+0700 (Western Indonesia Time)
+2025-11-08T11:25:43: PM2 log: PM2 version          : 6.0.13
+2025-11-08T11:25:43: PM2 log: Node.js version      : 20.19.5
+2025-11-08T11:25:43: PM2 log: Current arch         : x64
+2025-11-08T11:25:43: PM2 log: PM2 home             : y
+2025-11-08T11:25:43: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-08T11:25:43: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-08T11:25:43: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-08T11:25:43: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-08T11:25:43: PM2 log: Worker Interval      : 30000
+2025-11-08T11:25:43: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-08T11:25:43: PM2 log: Concurrent actions   : 2
+2025-11-08T11:25:43: PM2 log: SIGTERM timeout      : 1600
+2025-11-08T11:25:43: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-08T11:25:43: PM2 log: ===============================================================================
+2025-11-08T11:25:43: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-08T11:25:43: PM2 log: App [himauntika-bot:0] online
+2025-11-08T18:22:25: PM2 log: ===============================================================================
+2025-11-08T18:22:25: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-08T18:22:25: PM2 log: Time                 : Sat Nov 08 2025 18:22:25 GMT+0700 (Western Indonesia Time)
+2025-11-08T18:22:25: PM2 log: PM2 version          : 6.0.13
+2025-11-08T18:22:25: PM2 log: Node.js version      : 20.19.5
+2025-11-08T18:22:25: PM2 log: Current arch         : x64
+2025-11-08T18:22:25: PM2 log: PM2 home             : y
+2025-11-08T18:22:25: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-08T18:22:25: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-08T18:22:25: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-08T18:22:25: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-08T18:22:25: PM2 log: Worker Interval      : 30000
+2025-11-08T18:22:25: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-08T18:22:25: PM2 log: Concurrent actions   : 2
+2025-11-08T18:22:25: PM2 log: SIGTERM timeout      : 1600
+2025-11-08T18:22:25: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-08T18:22:25: PM2 log: ===============================================================================
+2025-11-08T18:22:25: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-08T18:22:25: PM2 log: App [himauntika-bot:0] online
+2025-11-10T11:53:28: PM2 log: ===============================================================================
+2025-11-10T11:53:28: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-10T11:53:28: PM2 log: Time                 : Mon Nov 10 2025 11:53:28 GMT+0700 (Western Indonesia Time)
+2025-11-10T11:53:28: PM2 log: PM2 version          : 6.0.13
+2025-11-10T11:53:28: PM2 log: Node.js version      : 20.19.5
+2025-11-10T11:53:28: PM2 log: Current arch         : x64
+2025-11-10T11:53:28: PM2 log: PM2 home             : y
+2025-11-10T11:53:28: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-10T11:53:28: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-10T11:53:28: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-10T11:53:28: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-10T11:53:28: PM2 log: Worker Interval      : 30000
+2025-11-10T11:53:28: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-10T11:53:28: PM2 log: Concurrent actions   : 2
+2025-11-10T11:53:28: PM2 log: SIGTERM timeout      : 1600
+2025-11-10T11:53:28: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-10T11:53:28: PM2 log: ===============================================================================
+2025-11-10T11:53:28: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-10T11:53:28: PM2 log: App [himauntika-bot:0] online
+2025-11-12T08:54:29: PM2 log: ===============================================================================
+2025-11-12T08:54:29: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-12T08:54:29: PM2 log: Time                 : Wed Nov 12 2025 08:54:29 GMT+0700 (Western Indonesia Time)
+2025-11-12T08:54:29: PM2 log: PM2 version          : 6.0.13
+2025-11-12T08:54:29: PM2 log: Node.js version      : 20.19.5
+2025-11-12T08:54:29: PM2 log: Current arch         : x64
+2025-11-12T08:54:29: PM2 log: PM2 home             : y
+2025-11-12T08:54:29: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-12T08:54:29: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-12T08:54:29: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-12T08:54:29: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-12T08:54:29: PM2 log: Worker Interval      : 30000
+2025-11-12T08:54:29: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-12T08:54:29: PM2 log: Concurrent actions   : 2
+2025-11-12T08:54:29: PM2 log: SIGTERM timeout      : 1600
+2025-11-12T08:54:29: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-12T08:54:29: PM2 log: ===============================================================================
+2025-11-12T08:54:29: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-12T08:54:29: PM2 log: App [himauntika-bot:0] online
+2025-11-12T14:17:14: PM2 log: ===============================================================================
+2025-11-12T14:17:14: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-12T14:17:14: PM2 log: Time                 : Wed Nov 12 2025 14:17:14 GMT+0700 (Western Indonesia Time)
+2025-11-12T14:17:14: PM2 log: PM2 version          : 6.0.13
+2025-11-12T14:17:14: PM2 log: Node.js version      : 20.19.5
+2025-11-12T14:17:14: PM2 log: Current arch         : x64
+2025-11-12T14:17:14: PM2 log: PM2 home             : y
+2025-11-12T14:17:14: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-12T14:17:14: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-12T14:17:14: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-12T14:17:14: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-12T14:17:14: PM2 log: Worker Interval      : 30000
+2025-11-12T14:17:14: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-12T14:17:14: PM2 log: Concurrent actions   : 2
+2025-11-12T14:17:14: PM2 log: SIGTERM timeout      : 1600
+2025-11-12T14:17:14: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-12T14:17:14: PM2 log: ===============================================================================
+2025-11-12T14:17:14: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-12T14:17:15: PM2 log: App [himauntika-bot:0] online
+2025-11-12T18:09:11: PM2 error: Error caught while calling pidusage
+2025-11-12T18:09:11: PM2 error: Error: Node - LAPTOP-GUSSBAE
+ERROR:
+Description = Call cancelled
+
+2025-11-12T18:11:37: PM2 error: Error caught while calling pidusage
+2025-11-12T18:11:37: PM2 error: Error: Node - LAPTOP-GUSSBAE
+ERROR:
+Description = Provider load failure
+
+2025-11-12T18:18:15: PM2 error: Error caught while calling pidusage
+2025-11-12T18:18:15: PM2 error: Error: Node - LAPTOP-GUSSBAE
+ERROR:
+Description = Provider load failure
+
+2025-11-13T15:04:44: PM2 log: ===============================================================================
+2025-11-13T15:04:44: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-13T15:04:44: PM2 log: Time                 : Thu Nov 13 2025 15:04:44 GMT+0700 (Western Indonesia Time)
+2025-11-13T15:04:44: PM2 log: PM2 version          : 6.0.13
+2025-11-13T15:04:44: PM2 log: Node.js version      : 20.19.5
+2025-11-13T15:04:44: PM2 log: Current arch         : x64
+2025-11-13T15:04:44: PM2 log: PM2 home             : y
+2025-11-13T15:04:44: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-13T15:04:44: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-13T15:04:44: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-13T15:04:44: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-13T15:04:44: PM2 log: Worker Interval      : 30000
+2025-11-13T15:04:44: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-13T15:04:44: PM2 log: Concurrent actions   : 2
+2025-11-13T15:04:44: PM2 log: SIGTERM timeout      : 1600
+2025-11-13T15:04:44: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-13T15:04:44: PM2 log: ===============================================================================
+2025-11-13T15:04:44: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-13T15:04:44: PM2 log: App [himauntika-bot:0] online
+2025-11-13T17:18:58: PM2 log: App [himauntika-bot:0] exited with code [134] via signal [SIGINT]
+2025-11-13T17:18:58: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-13T17:18:58: PM2 log: App [himauntika-bot:0] online
+2025-11-13T18:43:59: PM2 log: App [himauntika-bot:0] exited with code [134] via signal [SIGINT]
+2025-11-13T18:43:59: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-13T18:43:59: PM2 log: App [himauntika-bot:0] online
+2025-11-14T08:40:40: PM2 log: ===============================================================================
+2025-11-14T08:40:40: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-11-14T08:40:40: PM2 log: Time                 : Fri Nov 14 2025 08:40:40 GMT+0700 (Western Indonesia Time)
+2025-11-14T08:40:40: PM2 log: PM2 version          : 6.0.13
+2025-11-14T08:40:40: PM2 log: Node.js version      : 20.19.5
+2025-11-14T08:40:40: PM2 log: Current arch         : x64
+2025-11-14T08:40:40: PM2 log: PM2 home             : y
+2025-11-14T08:40:40: PM2 log: PM2 PID file         : C:\whatsapp_bot_himauntika\y\pm2.pid
+2025-11-14T08:40:40: PM2 log: RPC socket file      : \\.\pipe\rpc.sock
+2025-11-14T08:40:40: PM2 log: BUS socket file      : \\.\pipe\pub.sock
+2025-11-14T08:40:40: PM2 log: Application log path : C:\whatsapp_bot_himauntika\y\logs
+2025-11-14T08:40:40: PM2 log: Worker Interval      : 30000
+2025-11-14T08:40:40: PM2 log: Process dump file    : C:\whatsapp_bot_himauntika\y\dump.pm2
+2025-11-14T08:40:40: PM2 log: Concurrent actions   : 2
+2025-11-14T08:40:40: PM2 log: SIGTERM timeout      : 1600
+2025-11-14T08:40:40: PM2 log: Runtime Binary       : C:\nvm4w\nodejs\node.exe
+2025-11-14T08:40:40: PM2 log: ===============================================================================
+2025-11-14T08:40:40: PM2 log: App [himauntika-bot:0] starting in -fork mode-
+2025-11-14T08:40:40: PM2 log: App [himauntika-bot:0] online
